@@ -15,9 +15,7 @@ const Index = () => {
               <Icon name="Pickaxe" size={24} className="text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">
-                3 СЕЗОН CHERPAL
-              </h1>
+              <h1 className="text-xl font-bold text-gray-900">VanillaCraft</h1>
               <p className="text-sm text-gray-500">Ванильное выживание</p>
             </div>
           </div>
